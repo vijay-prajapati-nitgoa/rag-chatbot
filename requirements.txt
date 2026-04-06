@@ -1,4 +1,4 @@
-streamlit
+streamlit==1.32.2
 langchain==0.1.16
 langchain-core==0.1.52
 langchain-community==0.0.38
@@ -7,3 +7,4 @@ langchain-objectbox
 sentence-transformers
 python-dotenv
 pydantic==1.10.13
+typing-extensions==4.9.0
