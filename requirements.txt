@@ -6,3 +6,4 @@ langchain-groq==0.1.4
 langchain-objectbox
 sentence-transformers
 python-dotenv
+pydantic==1.10.13
